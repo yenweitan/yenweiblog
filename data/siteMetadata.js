@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: '你好🍜',
+  title: 'Hi there! 🍜',
   author: 'Yen Wei Tan',
   headerTitle: 'Website',
   description: 'My little corner in the vast parts of the internet',
